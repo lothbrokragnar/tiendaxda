@@ -14,9 +14,9 @@ themes/
 
 // abstracts
 @import 'abstracts/variables';
-@import 'abstracts/functions';
-@import 'abstracts/mixins';
-@import 'abstracts/placeholders';
+//@import 'abstracts/functions';
+//@import 'abstracts/mixins';
+//@import 'abstracts/placeholders';
 
 // vendors
 @import 'vendors/bootstrap/scss/bootstrap';
@@ -29,25 +29,25 @@ themes/
 
 // layout
 @import 'layout/navigation';
-@import 'layout/grid';
+//@import 'layout/grid';
 @import 'layout/header';
 @import 'layout/article';
 @import 'layout/footer';
 @import 'layout/sidebar';
-@import 'layout/forms';
+//@import 'layout/forms';
 @import 'layout/mainsection';
 
 // components
 @import 'components/buttons';
-@import 'components/carousel';
-@import 'components/cover';
-@import 'components/dropdown';
+//@import 'components/carousel';
+//@import 'components/cover';
+//@import 'components/dropdown';
 
 // pages
-@import 'pages/home';
-@import 'pages/contact';
+//@import 'pages/home';
+//@import 'pages/contact';
 
 // themes
-@import 'themes/theme';
-@import 'themes/admin';
+//@import 'themes/theme';
+//@import 'themes/admin';
 
